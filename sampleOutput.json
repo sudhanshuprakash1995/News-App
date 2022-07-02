@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Rory Dollard",
+            "title": "Azeem Rafiq: English cricket rife with racism, says cricketer as MPs told of ‘inhuman’ treatment at Yorkshire",
+            "description": "Cricketer tells select committee treatment of him led to ‘suicidal thoughts’ in 2017",
+            "url": "http://www.independent.co.uk/sport/cricket/azeem-rafiq-cricket-racism-yorkshire-b1959014.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/16/23/PRI210536379.jpeg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-11-17T00:32:38Z",
+            "content": "Yorkshire whistleblower Azeem Rafiq delivered an emotional and explosive account of his harrowing experience of racism in cricket to MPs on Tuesday, with a series of new and shocking allegations that… [+7852 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "English cricket near 'emergency' - ECB",
+            "description": "English cricket is \"approaching\" an \"emergency\" over its failure to address racism and diversity, says England and Wales Cricket Board chief executive Tom Harrison.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59312957",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/2024/production/_121582280_gettyimages-1236597310.jpg",
+            "publishedAt": "2021-11-16T18:37:25.9986612Z",
+            "content": "'It sounds like the Wild West' - MP Julie Elliott on ECB regulatory process\r\nEnglish cricket is approaching an \"emergency\" over its failure to address racism, says England and Wales Cricket Board chi… [+5068 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Mihir Bose",
+            "title": "Will this be a watershed moment for English cricket? I hope so, but I doubt it",
+            "description": "Azeem Rafiq’s detailing of the treatment he faced was dramatic – but cricket history shows change of a fundamental nature comes only when it is imposed from the top",
+            "url": "http://www.independent.co.uk/voices/yorkshire-azeem-rafiq-racism-cricket-b1958831.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/16/17/c2a68145f84eee80cca7c2881d40c77aY29udGVudHNlYXJjaGFwaSwxNjM3MTY3MTkx-2.63764514.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-11-16T18:32:35Z",
+            "content": "Cricket has always seen itself as the idyllic English game. As George Orwell described it everyone plays in braces, where the blacksmith is liable to be called away in mid-innings on an urgent job, a… [+5051 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "English cricket 'institutionally' racist - Rafiq",
+            "description": "English cricket is \"institutionally\" racist, says former Yorkshire player Azeem Rafiq.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59304381",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+            "publishedAt": "2021-11-16T10:37:29.0979903Z",
+            "content": "English cricket is \"institutionally\" racist, says former Yorkshire player Azeem Rafiq.\r\nRafiq, 30, told a Digital, Culture, Media and Sport select committee that racist language was \"constantly\" used… [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
